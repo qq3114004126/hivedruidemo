@@ -1,0 +1,29 @@
+----------------------------------------------------------------
+Sat Aug 29 21:54:02 GMT+08:00 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0174-3a7f-10b2-0000143281c8 
+on database directory memory:D:\springprojectdemolist\hivedemo\7a400157-bf36-4a86-8427-3053a58f8690 with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+Loaded from file:/D:/repo/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_212-b10
+user.dir=D:\springprojectdemolist\hivedemo
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sat Aug 29 21:54:03 GMT+08:00 2020:
+Shutting down instance a816c00e-0174-3a7f-10b2-0000143281c8 on database directory memory:D:\springprojectdemolist\hivedemo\7a400157-bf36-4a86-8427-3053a58f8690 with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+----------------------------------------------------------------
+Sat Aug 29 21:54:03 GMT+08:00 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 0ddd00a9-0174-3a7f-10b2-0000143281c8 
+on database directory memory:D:\springprojectdemolist\hivedemo\7a400157-bf36-4a86-8427-3053a58f8690 with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+Loaded from file:/D:/repo/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_212-b10
+user.dir=D:\springprojectdemolist\hivedemo
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
