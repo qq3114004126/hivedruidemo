@@ -32,6 +32,8 @@ public class ResponseResult {
         this.msg = msg;
     }
 
+
+
     public Object getData() {
         return data;
     }
